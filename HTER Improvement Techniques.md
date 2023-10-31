@@ -21,12 +21,9 @@
 
   \(8\)    Learning rate 0.01       0.4781                  0.4963         
 
-  \(9\)    Learning rate 0.001      0.4876                  0.5132         
+  \(9\)    Learning rate 0.001      0.4876                  0.5132              
 
-  \(10\)   Viola-Jones face         0.5931                  0.5361         
-           detection                                                       
-
-  \(11\)   CNN model with adding    0.5126                  0.5578         
+  \(10\)   CNN model with adding    0.5126                  0.5578         
            layers                                                          
   ----------------------------------------------------------------------------------
 
@@ -35,4 +32,4 @@ Notes and observations
 \(1\) Model is overfitting. The accuracy reaches 100%
 after a few epochs.
 
-\(11\) CNN model added 2 more layers
+\(10\) CNN model added 2 more layers
