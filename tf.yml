@@ -10,6 +10,7 @@ dependencies:
 - numpy=1.26.0
 - pip # needed to install pip dependencies below
 - tensorflow==2.13.1
+- matplotlib==3.8.0
 - scipy=1.1.0
 - pip:
   - scikit-learn==1.3.2
